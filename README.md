@@ -1,8 +1,8 @@
 # DSA Challenge Practice
 
-This repository tracks the **types of coding challenges** I have solved using data structures and algorithms, with a focus on pattern recognition and reusable techniques.
+This repository tracks the **coding challenges** I have solved using data structures and algorithms in C++ and Python, with a focus on pattern recognition and reusable techniques.
 
-## Problem Types Covered (Concise)
+## Problem Types Covered
 - Arrays and strings (two pointers, sliding window, prefix sums)
 - Binary search (index search, answer-space search)
 - Hashing and frequency-count problems
@@ -15,8 +15,3 @@ This repository tracks the **types of coding challenges** I have solved using da
 - Greedy strategy problems (local choice, interval-style decisions)
 - Sorting and custom comparator based tasks
 - Math/number theory basics (modulo, divisibility, counting)
-
-## Repository Structure
-- One code file per solution
-- One markdown file for approach/discussion
-- Optional illustration/visualization files when needed
