@@ -1,4 +1,4 @@
-public class Main {
+public class ArmStrongCheck {
     public static void main(String[] args) {
         int number = 153; // Test case 1
         int l = String.valueOf(Math.abs(number)).length();
