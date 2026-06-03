@@ -1,3 +1,4 @@
+package Basics;
 public class BinaryToDecimal {
     public static void main(String[] args) {
         String binary = "1010"; // Test case 1

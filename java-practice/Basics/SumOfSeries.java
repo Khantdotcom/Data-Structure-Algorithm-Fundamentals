@@ -1,3 +1,4 @@
+package Basics;
 public class SumOfSeries {
     public static void main(String[] args) {
         int n = 5; // Test case 1

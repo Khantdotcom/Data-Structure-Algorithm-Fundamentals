@@ -1,3 +1,4 @@
+package Basics;
 public class ArmStrongCheck {
     public static void main(String[] args) {
         int number = 153; // Test case 1

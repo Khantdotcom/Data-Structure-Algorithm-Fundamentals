@@ -1,3 +1,4 @@
+package Basics;
 
 public public class NeonNumCheck{
     public static void main(String[] args) {

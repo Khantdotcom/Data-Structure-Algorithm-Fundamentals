@@ -1,3 +1,4 @@
+package Basics;
 public class IsStrong {
     public static void main(String[] args) {
         int number = 145; // Test case 1

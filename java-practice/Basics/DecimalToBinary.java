@@ -1,3 +1,4 @@
+package Basics;
 public class DecimalToBinary {
     public static void main(String[] args) {
         int decimal = 1; // Test case 1

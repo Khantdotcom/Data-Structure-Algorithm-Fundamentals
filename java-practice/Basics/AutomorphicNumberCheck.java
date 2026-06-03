@@ -1,3 +1,4 @@
+package Basics;
 public class AutomorphicNumberCheck {
     public static void main(String[] args) {
         int number = 25; // Test case 1

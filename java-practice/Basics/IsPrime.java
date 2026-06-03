@@ -1,3 +1,4 @@
+package Basics;
 public class IsPrime {
     public static void main(String[] args) {
         int number = 17; // Test case 1

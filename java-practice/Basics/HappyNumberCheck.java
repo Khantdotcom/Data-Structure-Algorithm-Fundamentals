@@ -1,3 +1,4 @@
+package Basics;
 public class HappyNumberCheck{
     public static void main(String[] args) {
         int number = 19; // Test case 1
