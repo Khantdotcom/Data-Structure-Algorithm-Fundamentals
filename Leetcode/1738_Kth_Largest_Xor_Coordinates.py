@@ -2,6 +2,7 @@ class Solution:
     def kthLargestValue(self, matrix: List[List[int]], k: int) -> int:
         #sum[i][j] = sum[i-1,j] above + sum[i,j-1] left - sum[i-1,j-1] diagonal + matrix[i][j]
         xor_matrix = [[0 for _ in range(len(matrix[0]))] for _ in range(len(matrix))]
+        ##Improvement -> Padding Trick so that I don't need to check for out-of-bounds row+1, col+1 trick
         all_results = []
         rows = len(matrix)
         cols = len(matrix[0])
